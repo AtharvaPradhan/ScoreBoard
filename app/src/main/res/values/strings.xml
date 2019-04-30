@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Score Keeper</string>
+    <string name="New">New</string>
+    <string name="Record">Record</string>
+    <string name="Redo">Redo</string>
+    <string name="Undo">Undo</string>
+    <string name="One_run">+1</string>
+    <string name="Two_run">+2</string>
+    <string name="Three_run">+3</string>
+    <string name="Four_run">+4</string>
+    <string name="Five_run">+5</string>
+    <string name="Six_run">+6</string>
+    <string name="Wide">Wide</string>
+    <string name="NoBall">No Ball</string>
+    <string name="AllByes">Byes</string>
+    <string name="Wicket">Wicket</string>
+    <string name="No_RUNS">No Runs</string>
+    <string name="H1">1st Innings</string>
+    <string name="H2">2nd Innings</string>
+    <string name="NoPlayers">Enter no. of Players :</string>
+    <string name="NoOvers">Enter no. of Overs :</string>
+    <string name="Extra">Projected Score/Chase (if any)</string>
+    <string name="Go">Go</string>
+    <string name="NoBall_string">Please select runs (if any)</string>
+
+</resources>
